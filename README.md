@@ -2,12 +2,11 @@
 
 ### Full-Stack Web Developer | IT Student @ AIT Pune | Competitive Programmer
 
-I'm a third-year Information Technology student passionate about building scalable web applications, solving complex algorithmic challenges, and mastering command-line workflows. 
+I'm a fourth-year Information Technology student passionate about building scalable web applications, solving complex algorithmic challenges, and mastering command-line workflows. 
 
-- 🔭 I’m currently working on a **React-based e-commerce platform** with a custom shopping dashboard.
+- 🔭 I’m currently working on a project like routeguard and skillcheck.
 - 🌱 I’m currently deep-diving into advanced **C++** concepts for competitive programming.
 - 💻 My daily development environment is **Linux Ubuntu**, and I heavily utilize terminal scripts and Git version control.
-- ⚡ Fun fact: I practice my touch typing daily to keep my coding speed and ergonomics sharp.
 - 📫 How to reach me: [https://www.linkedin.com/in/adarsh-kumar-124918289/]
 
 ---
