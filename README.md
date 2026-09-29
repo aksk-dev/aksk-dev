@@ -1,6 +1,6 @@
 # Hi, I'm Adarsh Kumar 👋
 
-### Full-Stack Web Developer | IT Student @ AIT Pune | Competitive Programmer
+### Full-Stack Web Developer | IT Student @ AIT Pune 
 
 I'm a fourth-year Information Technology student passionate about building scalable web applications, solving complex algorithmic challenges, and mastering command-line workflows. 
 
